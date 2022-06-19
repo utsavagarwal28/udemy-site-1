@@ -1,0 +1,28 @@
+/************************************tag selector************************************/
+
+hr {
+  border-style: none none dotted;
+  width: 10%;
+  border-width: 15px;
+  color: grey;
+}
+
+BODY {
+  background-color: #000000;
+  color: #a879f4
+}
+
+h1 {
+  color: #fc0110;
+  font-size: 650%
+}
+
+h3 {
+  color: #fd5063
+}
+
+form {
+  color: white;
+}
+
+/************************************id selector************************************/
